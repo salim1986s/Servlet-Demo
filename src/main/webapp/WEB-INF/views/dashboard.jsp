@@ -13,7 +13,7 @@
     <!-- Navbar Admin -->
     <nav class="navbar navbar-expand-md bg-body-tertiary">
         <div class="container">
-            <a class="navbar-brand" href="home.jsp">MyShop</a>
+            <a class="navbar-brand" href="home">MyShop</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                 aria-label="Toggle navigation">
@@ -22,11 +22,11 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-md-0">
                     <li class="nav-item">
-                        <a class="nav-link" href="products.jsp">Products</a>
+                        <a class="nav-link" href="products">Products</a>
                     </li>
                 </ul>
                 <div>
-                    <a class="btn border-0" href="dashboard.jsp">Dashboard</a>
+                    <a class="btn border-0" href="dashboard">Dashboard</a>
                     <a class="btn btn-outline-danger" href="#">Logout</a>
                 </div>
             </div>
